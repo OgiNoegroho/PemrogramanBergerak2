@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         List<Item> items = new ArrayList<Item>();
-        items.add(new Item("Nama: Abmi Sukma Edri", "Nim: 1205012o0341", R.drawable.abmi));
+        items.add(new Item("Nama: Abmi Sukma Edri", "Nim: 12050120341", R.drawable.abmi));
         items.add(new Item("Nama: Ahmad Kurniawan", "Nim: 12250111514", R.drawable.ahmad));
         items.add(new Item("Nama: Aufa Hajati", "Nim: 12250120338", R.drawable.aufa));
         items.add(new Item("Nama: Daffa Finanda", "Nim: 12250111603", R.drawable.dapin));
